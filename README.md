@@ -1,4 +1,4 @@
-![istockphoto-1249957366-612x612](https://github.com/Saurabh6912/Stroke_Predictions/assets/135308872/2203d7d9-77fc-45b2-bd80-a84af137c8d6)
+  ![istockphoto-1249957366-612x612](https://github.com/Saurabh6912/Stroke_Predictions/assets/135308872/2203d7d9-77fc-45b2-bd80-a84af137c8d6)
 
 # Stroke_Prediction
 stroke prediction using Machine learning with visualization using python.
@@ -58,4 +58,4 @@ Thank you for your interest in the Brain Stroke Prediction project.Together, let
 ## Credits
 *Image by [iStock by Getty Images](https://www.istockphoto.com/photos/brain-stroke).*
 
-*Contributer [Saurabh6912](https://github.com/Saurabh6912)*
+*Contributer [(https://github.com/KaushalW696)*
